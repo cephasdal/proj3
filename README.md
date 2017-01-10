@@ -6,6 +6,7 @@ This project implements AVL Trees, a type of binary search trees that requires t
 Some code was provided and required modification by students. The AVLForest header and cpp files were provided as skeleton files and were changed to fit our AVL tree implementation. The AVLTreeBase.h file was provided and could not be modified. It was used for inheritance. Full project specifications can be found in CMSC341Project3.pdf.
 
 proj3 is intended to be run from the command line using the 'make run' command.
+
 Example: make run INPUT=input1.txt RANGE=range1.txt
 
 My project received a grade of 100%.
